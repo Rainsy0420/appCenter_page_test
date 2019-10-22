@@ -1,4 +1,4 @@
-# appCenter_page_testecho >> README.md
+echo "# appCenter_page_testecho" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
